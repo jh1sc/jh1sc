@@ -1,6 +1,5 @@
 <div align=center>
 
-![banner](https://github.com/jh1sc/jh1sc/blob/main/20230825_130735.jpg)
 
 </div>
 
