@@ -1,18 +1,21 @@
-<div align=center>
+### Hi there 👋 I'm Jh1sc
+
+<img style="text-align: center" src="[https://discord.c99.nl/widget/theme-3/647976088894439454.png](https://discord.c99.nl/widget/theme-2/827435578487472138.png)">
 
 
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=s3ansh33p&theme=onedark&margin-w=15&margin-h=15&column=7&v=2" alt="s3ansh33p" />
 
-<br>
 
-<h2 align="center"> My Github Stats </h2>
+<img align="right" width=420px alt="GIF" src="https://media.giphy.com/media/3ohhwNqFMnb7wZgNnq/giphy.gif" />
 
-<div align=center>
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="left" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=jh1sc&theme=radical" />
-    </a>
-<a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="right" width=370 src="https://github-readme-stats.vercel.app/api?username=jh1sc&theme=radical" />
-    </a>
-</div>
-<img src="http://canarytokens.com/articles/tags/ouhrwrxch3diqtbvs1rdma87s/index.html">
+**About Me:**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=s3ansh33p&label=Profile%20views&color=0e75b6&style=flat" alt="s3ansh33p Profile Views" /> </p>
+
+
+**Stats:**
+
+![](https://github.com/s3ansh33p/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/s3ansh33p/github-stats/blob/master/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/s3ansh33p/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/s3ansh33p/github-stats/blob/master/generated/languages.svg#gh-light-mode-only)
