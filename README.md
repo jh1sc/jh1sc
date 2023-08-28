@@ -5,7 +5,9 @@
 
 **About Me:**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jh1sc&label=Profile%20views&color=0e75b6&style=flat" alt="Jh1sc Profile Views" /> </p>
+
 ------------------
+
 Again hello, im **JH1SC**. I call Perth, Australia my home. I'm all about diving into technology as an unabashed programmer. Aside from that, I like to solve puzzles or problems, socialize and attempting to catch some quality Z's 😴.
 I hope to keep contributing to an open web, developing applications, and building on communities. 
 Some languages I enjoy working with is **C++, Powershell**.
