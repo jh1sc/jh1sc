@@ -15,7 +15,7 @@ Some languages I enjoy working with is **C++, Powershell**.
 **Notes:**
  If you want to know more detail about my projects, or something i have made, or how or why. I would be extremely happy to anwser you via Discord Jh1sc#1240🙏 
 
-**Goals:**
-- 🧠 Create a Convo nueral network in C++
-- 🤓☝️ Widen my projects due C++
+**To do's:**
+- 🧠 nueral network in C++
+-  Widen projects due C++
 
