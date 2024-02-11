@@ -8,14 +8,4 @@
 
 ------------------
 
-Again hello, im **JH1SC**. I enjoy to solve puzzles or problems, socialize and attempting to catch some quality Z's 😴.
-I hope to keep contributing to an open web, developing applications, and building on communities. 
-Some languages I enjoy working with is **C++, Powershell**.
-
-**Notes:**
- If you want to know more detail about my projects, or something i have made, or how or why. I would be extremely happy to anwser you via Discord Jh1sc#1240🙏 
-
-**To do's:**
-- 🧠 nueral network in C++
--  Widen projects due C++
-
+Hello
